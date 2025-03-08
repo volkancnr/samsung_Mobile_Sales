@@ -1,5 +1,7 @@
 SAMSUNG MOBİL CİHAZ SATIŞ ANALİZİ
+
 (NOT: Analizde kullanılan görseller docx içinde daha net görülmektedir kaynak kodlar da paylaşılmıştır.)
+
 Bu analizde, Samsung'un 2019-2024 yılları arasında Asya, Avrupa, Latin Amerika, Kuzey Amerika, Orta Doğu ve Afrika bölgelerindeki satış performansı incelenmiştir. Bu incelemede pandas ve NumPy ile veri işleme yapılmış, Matplotlib ve Seaborn ile görselleştirme gerçekleştirilmiştir. Bölgelere göre toplam satış adedi ve geliri, yıllık satış trendleri, çeyreklik performanslar, en çok satan ürün modelleri ve dönemsel büyüme analizleri ile şirketin küresel pazardaki dinamikleri ve stratejik yönelimleri ele alınmıştır. Bu örnek analiz ile düşük performans gösteren bölgeler için, satış yapılan dönemlere yönelik stok ve pazarlama stratejileri geliştirmesi için yararlı olabilecek bir çalışma olabilecek düzeydedir. 
 
 ![image](https://github.com/user-attachments/assets/83b44d49-a77d-4ab1-a0bc-2f1bc2669fe2)
